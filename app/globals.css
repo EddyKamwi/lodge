@@ -15,7 +15,40 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
+.bg-image-hero {
+  background-image: url("../public/hero.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}.bg-rooms {
+  background-image: url("../public/rooms.jpg");
+  background-position: center;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-kitchen {
+  background-image: url("../public/kitchen_food.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+}
+.map{height: 100vh;
+}
+.bg-bar {
+  background-image: url("../public/bar.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+.bg-carpark {
+  background-image: url("../public/carpark.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
