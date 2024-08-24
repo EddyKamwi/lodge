@@ -23,7 +23,7 @@ export default function Rooms() {
       <div className="max-md:columns-1 max-xl:columns-2 max-2xl:columns-3">
         <div className="p-10">
           <a href="#">
-            <img className="rounded-t-lg" src="lodge2.jpg" alt="" />
+            <img className="rounded-t-lg" src="./lodge2.jpg" alt="" />
           </a>
           <div className="p-5">
             <a href="#">
@@ -60,7 +60,7 @@ export default function Rooms() {
         </div>
         <div className="p-10">
           <a href="#">
-            <img className="rounded-t-lg" src="lodge1.jpg" alt="" />
+            <img className="rounded-t-lg" src="./lodge1.jpg" alt="" />
           </a>
           <div className="p-5">
             <a href="#">
@@ -97,7 +97,7 @@ export default function Rooms() {
         </div>
         <div className="p-10">
           <a href="#">
-            <img className="rounded-t-lg" src="lodge3.jpg" alt="" />
+            <img className="rounded-t-lg" src="./lodge3.jpg" alt="" />
           </a>
           <div className="p-5">
             <a href="#">
@@ -134,7 +134,7 @@ export default function Rooms() {
         </div>
         <div className="p-10">
           <a href="#">
-            <img className="rounded-t-lg" src="lodge4.jpg" alt="" />
+            <img className="rounded-t-lg" src="./lodge4.jpg" alt="" />
           </a>
           <div className="p-5">
             <a href="#">
@@ -171,7 +171,7 @@ export default function Rooms() {
         </div>
         <div className="p-10">
           <a href="#">
-            <img className="rounded-t-lg" src="lodge5.jpg" alt="" />
+            <img className="rounded-t-lg" src="./lodge5.jpg" alt="" />
           </a>
           <div className="p-5">
             <a href="#">
@@ -208,7 +208,7 @@ export default function Rooms() {
         </div>
         <div className="p-10">
           <a href="#">
-            <img className="rounded-t-lg" src="lodge6.jpg" alt="" />
+            <img className="rounded-t-lg" src="./lodge6.jpg" alt="" />
           </a>
           <div className="p-5">
             <a href="#">
