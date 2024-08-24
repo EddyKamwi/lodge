@@ -100,12 +100,12 @@ export default function Home() {
             <div class="grid md:grid-cols-2 gap-3 bg-transparent">
               <div class="bg-carpark border border-gray-200 rounded-lg p-8 md:p-12">
                 
-                <h2 class="mb-96 text-gray-900 dark:text-white text-3xl font-extrabold mb-2">
+                <h2 class="mb-96 text-gray-900 dark:text-white text-3xl font-extrabold">
                 ParkZone: Your Vehicle’s Safe Zone
                 </h2>
               </div>
               <div class="bg-bar dark:bg-gray-800 border border-gray-200 rounded-lg p-8 md:p-12">           
-                <h2 class="mb-96 text-gray-900 dark:text-white text-3xl font-extrabold mb-2">
+                <h2 class="mb-96 text-gray-900 dark:text-white text-3xl font-extrabold">
                 The Sipping Room
                 </h2>
               </div>
